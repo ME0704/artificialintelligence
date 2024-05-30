@@ -1,0 +1,81 @@
+MODI EMMANUEL 
+012230160
+ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+COURSEWORK
+
+2 a) Explain the concept of knowledge representation and knowledge cycle in AI b) With citing of atleast 10 research papers, explain knowledge and intelligence and classify common sense as a form of knowledge or intelligence and publish your work on a journal of your choice and your work must be submitted with the link to the journal
+
+Knowledge Representation in AI
+ In AI, knowledge representation is essential for storing and organizing knowledge so that machines can think and make decisions like humans. It involves converting real-world information into a computer-understandable format. The key points are: 
+-	Knowledge representation encodes information in a way that AI systems can use and comprehend. 
+-	It transforms raw data into meaningful insights, bridging the gap between data and understanding. 
+-	The goal is to provide computers with knowledge that they can analyze, reason with, and draw conclusions from, simulating cognitive processes.
+Types of Knowledge:
+•	Declarative Knowledge: Knowledge of objective facts, information, and truths without explaining their origin or use
+•	Procedural Knowledge: Step-by-step instructions, methods, and guidelines for completing tasks effectively
+
+•	Meta Knowledge:  Knowledge about the knowledge itself, including its sources, limitations, and how to optimize its use. This enables AI systems to learn, adapt, and refine their knowledge over time
+
+•	 Heuristic knowledge: Heuristic knowledge is representing knowledge of some experts in a filed or subject and based on previous experiences, awareness of approaches, and which are good to work but not guaranteed.
+
+•	 Structural knowledge: Structural knowledge is basic knowledge to problem-solving.
+
+
+The Knowledge Cycle in AI:
+The knowledge loop is about getting, showing, thinking about, and refreshing knowledge in an AI system.
+The steps of the knowledge loop are:
+Getting Knowledge: Picking up needed info from places like data banks, papers, experts, and other AI systems.
+Showing Knowledge: Changing what we learn into a form AI systems can get.
+Thinking: Using what we know to make smart choices, fix problems, and mimic thinking.
+Updating Knowledge: Making sure what we know stays fresh by adding new info or tweaking what we know.
+
+Intelligence and Knowledge
+Intelligence is the power of the mind to learn, solve problems, and adapt. It includes different ways of thinking:
+•	Deductive reasoning: Using general facts to come up with specific conclusions (like in math). 
+•	Inductive reasoning: Taking specific examples and making general rules (like in science).
+•	 Abductive reasoning: Finding possible explanations for things we see (like diagnosing an illness). 
+Intelligence is not just one type of thinking. It's a mix of all these approaches together.
+
+Common Sense as Knowledge | Intelligence:
+Common sense means the basic know-how and smarts most people have. It's about everyday thinking, gut feelings, and smart choices.
+While it's a kind of smarts, common sense also goes hand in hand with being bright. Smart acts often need common sense to deal with life's tricky bits.
+Common sense helps us choose, guess what will happen, and get along with others.
+So, we can say common sense is both a kind of smarts (since it's about knowing stuff) and a part of being bright (since it helps with thinking through things).
+
+Knowledge and Intelligence
+Knowledge:
+Knowledge encompasses the collection of insights, data, and comprehension one garners through education, experiences, and learning. It includes explicit knowledge, which can be easily expressed and documented, and tacit knowledge, which is more about intuitive grasp or abilities that aren't as straightforward to articulate.
+
+Knowledge can be divided into different types:
+- Declarative Knowledge: This involves factual information about the world (for example, "Paris is the capital of France").
+- Procedural Knowledge: This pertains to knowing how to execute certain tasks or activities (for instance, how to ride a bike).
+- Meta Knowledge: This is the understanding of knowledge itself, including recognizing the constraints of a specific method of reasoning.
+
+In the arena of artificial intelligence (AI), the representation of knowledge is fundamental. It is what allows machines to perform reasoning, make informed decisions, and emulate human cognitive functions.
+Intelligence encompasses the capacity to acquire knowledge, engage in logical thought, resolve challenges, adapt to new contexts, and demonstrate cognitive abilities. It incorporates a variety of reasoning methods, including:
+-	Deductive Reasoning: The process of deriving specific conclusions from broad principles, seen in activities like mathematical proofs.
+-	Inductive Reasoning: The practice of deducing general principles based on specific instances, such as formulating scientific theories.
+-	Abductive Reasoning: The act of creating likely explanations for certain occurrences, for example, diagnosing illnesses.
+Common Sense
+Common sense is the simple know-how and insight most folks have. It includes everyday logic, a gut feeling, and the skill to make smart choices in different spots.
+Here’s how common sense fits into the wider picture
+-	Knowledge Part: Common sense means knowing basic truths about our world. Like, understanding that water is wet or that fire can hurt us.
+It comes from the facts we gather over time.
+-	 Smartness Part: Common sense helps us think practically. It helps us decide, guess what might happen, and deal well with others.
+When we come across a situation, common sense points us to what actions to take based on what we know and get.
+
+-	Classification: Common sense can be seen as both a form of knowledge (because it involves understanding facts) and a component of intelligence (because it enables practical reasoning).
+
+
+CITATIONS
+
+1.	“Current and Future Challenges in Knowledge Representation and Reasoning” by James P. Delgrande, Birte Glimm, Thomas Meyer, Miroslaw Truszczynski, and Frank Wolter
+2.	“Logical Reasoning over Natural Language as Knowledge Representation: A Survey” by Zonglin Yang et al
+3.	“The Curious Case of Commonsense Intelligence” by Yejin Choi
+4.	“ARTIFICIAL INTELLIGENCE, LOGIC AND FORMALIZING COMMON SENSE” by John McCarthy
+5.	“Commonsense Reasoning and Commonsense Knowledge in Artificial Intelligence” by Ernest Davis
+6.	“Commonsense Knowledge Reasoning and Generation with Pre-trained Models” by various authors
+7.	“Reinforcement Learning with Knowledge Representation and Reasoning: A Brief Survey” by Chao Yu et al.
+8.	“Knowledge Representation Research Papers” on Academia.edu
+9.	“Knowledge Representation and Reasoning: A Survey and Taxonomy” by Ronald J. Brachman and Hector J. Levesque
+10.	“Commonsense Reasoning: An Event Calculus Based Approach” by John McCarthy and Patrick J. Hayes
